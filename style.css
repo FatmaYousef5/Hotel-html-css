@@ -1,0 +1,373 @@
+*,
+HTML,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    margin: 20px;
+}
+
+.address {
+    font-family: Ubuntu;
+    color: #957554;
+    font-size: 24px;
+    text-decoration: none;
+    margin: 25px;
+}
+
+.border {
+    border: none;
+    margin: auto;
+    padding: 33px;
+    /*for space between top icon and border*/
+    text-align: center;
+}
+
+.img {
+    width: 13px;
+    height: 13px;
+    color: #DFAA5B;
+}
+
+.bord {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: thin 3px;
+    background-color: black;
+    width: 1259px;
+    height: 70px;
+    text-align: center;
+    padding: 45px;
+}
+
+#ic {
+    position: relative;
+    right: 47px;
+
+}
+
+.input {
+    border: none;
+    border-radius: 10px;
+    width: 192px;
+    height: 60px
+}
+
+input::placeholder {
+    font-family: Ubuntur;
+    font-size: 20px;
+    color: gray;
+    text-indent: 20px;
+}
+
+.button {
+    background-color: #DFAA5B;
+    border: none;
+    border-radius: 10px;
+    width: 190px;
+    height: 60px;
+    font-family: Ubuntur;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.space1 {
+    margin: 5px;
+
+}
+
+
+.image {
+    width: 1349px;
+    height: 790px;
+}
+
+.center {
+    font-family: 'Segoe UI Bold';
+    font-size: 75px;
+    position: absolute;
+    left: 225px;
+    top: 729px;
+    color: #FFFFFF;
+}
+
+.bottom {
+    font-family: Ubuntu;
+    font-size: 24px;
+    position: absolute;
+    left: 440px;
+    top: 829px;
+    color: #FFFFFF;
+}
+
+.button1 {
+    background-color: #DFAA5B;
+    border: none 3px;
+    border-radius: 10px;
+    width: 371px;
+    height: 60px;
+    font-family: Ubuntul;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    position: absolute;
+    left: 478px;
+    top: 894px;
+}
+
+.border1 {
+    position: absolute;
+    border: none;
+    border-radius: 5px;
+    width: 1240px;
+    height: 180px;
+    background-color: white;
+    left: 50px;
+    top: 1027px;
+}
+
+.font {
+
+    font-family: Ubuntul;
+    font-size: 40px;
+    line-height: 90px;
+    color: #957554;
+    text-align: center;
+}
+
+.icons {
+    padding: 5px;
+    width: 45px;
+    margin: 5px;
+    margin-left: 157px;
+
+}
+
+.facility {
+    font-family: Ubuntur;
+    font-size: 24;
+    color: #957554;
+    word-spacing: 187px;
+    margin-left: 153px;
+}
+
+.font1 {
+
+    font-family: Ubuntul;
+    font-size: 40px;
+    color: #957554;
+    text-align: center;
+    padding: 50px;
+
+}
+
+.room {
+
+    height: 1205px;
+    margin: 0;
+    padding: 0;
+}
+
+.photo1 {
+    margin-left: 20px;
+}
+
+.photo2 {
+    position: relative;
+    bottom: 503px;
+    left: 700px;
+}
+
+.photo3 {
+    position: relative;
+    margin-left: 20px;
+    bottom: 451px;
+}
+
+.photo4 {
+    position: relative;
+    margin-left: 700px;
+    bottom: 955px;
+}
+
+.font2 {
+
+    font-family: Ubuntu;
+    font-size: 40px;
+    color: white;
+}
+
+#f1 {
+    position: relative;
+    margin-left: 144px;
+    bottom: 1715px;
+}
+
+#f2 {
+    position: relative;
+    margin-left: 866px;
+    bottom: 1759px;
+}
+
+#f3 {
+    position: relative;
+    margin-left: 130px;
+    bottom: 1262px;
+}
+
+#f4 {
+    position: relative;
+    margin-left: 900px;
+    bottom: 1307px;
+}
+
+.button2 {
+    background-color: #DFAA5B;
+    border: none;
+    border-radius: 10px;
+    width: 240px;
+    height: 80px;
+    font-family: Ubuntur;
+    font-size: 20px;
+    color: white;
+}
+
+#b1 {
+    position: relative;
+    margin-left: 214px;
+    bottom: 1832px;
+}
+
+#b2 {
+    position: relative;
+    margin-left: 895px;
+    bottom: 1912px;
+}
+
+#b3 {
+    position: relative;
+    margin-left: 215px;
+    bottom: 1436px;
+}
+
+#b4 {
+    position: relative;
+    margin-left: 915px;
+    bottom: 1515px;
+}
+
+#g1 {
+    position: relative;
+    margin: 95px;
+    margin-bottom: 8px;
+}
+
+#b5 {
+    width: 350px;
+    margin-bottom: 80px;
+}
+
+.end {
+    background-color: black;
+    margin: auto;
+    width: 1349px;
+    margin-left: 0;
+    height: 400px;
+
+}
+
+.font3 {
+    font-family: Ubuntur;
+    position: relative;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    line-height: 50px;
+    margin-left: 555px;
+    top: 45px;
+}
+
+.down {
+    position: relative;
+    bottom: 185px;
+    margin-left: 15px;
+}
+
+.connect {
+    position: relative;
+    font-family: Ubuntux;
+    color: white;
+    font: 24px;
+    left: 15px;
+    bottom: 145px;
+}
+
+.right {
+    position: relative;
+    margin-left: 1000px;
+    bottom: 385px;
+    line-height: 90px;
+}
+
+.last {
+    font-family: Ubuntux;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.email {
+    display: inline-block;
+    border-radius: 10px;
+    height: 60px;
+    width: 271px;
+    text-indent: 20px;
+}
+
+.buttond {
+    background-color: #DFAA5B;
+    border: none;
+    border-radius: 8px;
+    width: 271px;
+    height: 60px;
+    font-family: Ubuntur;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main {
+    max-height: 100%;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: Ubuntu;
+    src: url(project\Ubuntu-Bold.ttf);
+}
+
+@font-face {
+    font-family: Ubuntur;
+    src: url(Ubuntu-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Segoe UI Bold';
+    src: local('Segoe UI Bold'), url('Segoe UI Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: Ubuntul;
+    src: url(project\Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: Ubuntux;
+    src: url(project\Ubuntu-Medium.ttf);
+}
